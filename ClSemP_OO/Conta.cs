@@ -11,7 +11,7 @@ namespace ClSemP_OO
         public double Saldo { get; set; } = 1000;
 
         public abstract double Sacar(double valorSacado);
-
+         
 
 
       

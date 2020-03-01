@@ -13,6 +13,7 @@ namespace Exercicio_POO
             //conta poupança descontar 0.50 ok
             //conta corrente descontar 1.00 ok
 
+
             Console.WriteLine("Para Poupança digite '0' ");
             Console.WriteLine("Para conta Corrente digite '1' ");
             Console.Write("Entre com o tipo de Conta: ");            
