@@ -9,11 +9,6 @@ namespace ClSemP_OO
         public int ID { get; set; }
         public TipoConta tipo { get; set; }
         public double Saldo { get; set; } = 1000;
-
         public abstract double Sacar(double valorSacado);
-         
-
-
-      
     }
 }
